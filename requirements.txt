@@ -1,0 +1,12 @@
+# Core packages referenced by the supplied notebooks.
+# Install a PyTorch build suitable for your CPU/CUDA environment from https://pytorch.org/get-started/locally/
+numpy
+pandas
+torch
+transformers
+scikit-learn
+matplotlib
+tqdm
+gdown
+requests
+openpyxl

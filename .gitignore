@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets and local environment
+.env
+.env.*
+
+# Dataset files and generated artifacts
+data/
+datasets/
+outputs/
+checkpoints/
+runs/
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
