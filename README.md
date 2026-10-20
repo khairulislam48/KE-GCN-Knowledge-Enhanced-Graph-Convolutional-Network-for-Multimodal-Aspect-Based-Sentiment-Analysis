@@ -23,7 +23,7 @@ The paper evaluates the approach on the Twitter-2015 and Twitter-2017 benchmark 
 | `ke-gcn-senticnet-coverage.ipynb` | SenticNet coverage analysis notebook. |
 | `requirements.txt` | Core Python dependencies referenced by the notebooks. |
 | `CITATION.cff` | Citation metadata for the associated paper. |
-| `IMPLEMENTATION_NOTES.md` | Scope, dataset configuration, and reproducibility caveats. |
+
 
 ## Datasets and external resources
 
