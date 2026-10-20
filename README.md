@@ -1,6 +1,6 @@
 # KE-GCN: Knowledge-Enhanced Graph Convolutional Network for Multimodal Aspect-Based Sentiment Analysis
 
-This repository organizes the supplied research notebooks associated with **KE-GCN**, a knowledge-enhanced graph convolutional network for multimodal aspect-based sentiment analysis (MABSA).
+This is a official implementation of **KE-GCN**, a knowledge-enhanced graph convolutional network for multimodal aspect-based sentiment analysis (MABSA).
 
 
 ## Research overview
