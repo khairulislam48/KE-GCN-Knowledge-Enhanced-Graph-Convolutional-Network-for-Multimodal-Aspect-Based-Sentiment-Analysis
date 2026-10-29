@@ -5,7 +5,7 @@ This is a official implementation of **KE-GCN**, a knowledge-enhanced graph conv
 
 ## Research overview
 
-MABSA predicts sentiment toward a specific aspect in a post by using both the post text and its associated image. The KE-GCN paper describes three major components:
+MABSA predicts sentiment toward a specific aspect in a post by using both the post text and its associated image. The KE-GCN has three major components:
 
 - **Knowledge-Enhanced Textual Sentiment Module:** uses syntactic structure with affective and commonsense knowledge.
 - **Knowledge-Enhanced Visual Sentiment Module:** uses text-guided visual representations and graph reasoning.
